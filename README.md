@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://sayoojs123.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://bolol4002.github.io/portfolio/)
 
 </div>
 
