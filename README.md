@@ -1,58 +1,26 @@
-```
-$ cat /dev/sayooj
-```
+# Sayooj S
 
-## Sayooj S
-
-**VLSI Engineer • Linux Enthusiast • ECE Undergrad**
-
-```bash
-┌─[sayooj@silicon]─[~]
-└──╼ $ whoami
-ECE student specializing in VLSI design
-Chip designer in training | Low-level code enthusiast
-"From gates to glory - one transistor at a time"
-```
+Electronics & Communication Engineer specializing in VLSI Design.
 
 ---
 
-### Skills
+### What I do
 
-```
-Hardware & VLSI:    Verilog, SystemVerilog, Arduino, Raspberry Pi
-Languages:          C, C++, Java, Bash
-ML & Data:          Keras, Matplotlib
-Tools:              Notion, Unity, Canva, Lightroom
-```
+- Digital circuit design (Verilog/SystemVerilog)
+- Systems programming (C/C++, Java, Bash)
+- Embedded systems (Arduino, Raspberry Pi)
+- Basic ML with Python (Keras, Matplotlib)
 
 ---
 
-### Stats
+### Find me
 
-```
-┌─[sayooj@silicon]─[~/stats]
-└──╼ $ git status
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayoojs123&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=sayoojs123&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+- Portfolio: [bolol4002.github.io/portfolio](https://bolol4002.github.io/portfolio/)
+- LinkedIn: [Sayooj S](https://linkedin.com/in/sayooj-s-7a8580285)
+- X: [@SayoojS1112](https://x.com/SayoojS1112)
+- Instagram: [@sayooj._.s](https://instagram.com/sayooj._.s)
+- Email: sayoojsumesh1112@gmail.com
 
 ---
 
-### Links
-
-```bash
-┌─[sayooj@silicon]─[~/contact]
-└──╼ $ cat links.txt
-```
-
-Portfolio: [bolol4002.github.io/portfolio](https://bolol4002.github.io/portfolio)  
-LinkedIn: [sayooj-s-7a8580285](https://linkedin.com/in/sayooj-s-7a8580285)  
-Email: sayoojsumesh1112@gmail.com  
-X: [@SayoojS1112](https://x.com/SayoojS1112)
-
----
-
-```
-$ exit
-```
+> Precision in design. Elegance in execution.
