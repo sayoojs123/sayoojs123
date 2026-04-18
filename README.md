@@ -18,7 +18,6 @@ Electronics & Communication Engineer specializing in VLSI Design.
 - Portfolio: [bolol4002.github.io/portfolio](https://bolol4002.github.io/portfolio/)
 - LinkedIn: [Sayooj S](https://linkedin.com/in/sayooj-s-7a8580285)
 - X: [@SayoojS1112](https://x.com/SayoojS1112)
-- Instagram: [@sayooj._.s](https://instagram.com/sayooj._.s)
 - Email: sayoojsumesh1112@gmail.com
 
 ---
